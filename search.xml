@@ -3,9 +3,9 @@
   
     
     <entry>
-      <title><![CDATA[Hello World]]></title>
+      <title><![CDATA[我的博客之Hello World]]></title>
       <url>%2F2016%2F11%2F07%2Fhello-world%2F</url>
-      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <content type="text"><![CDATA[断断续续地折腾了好几天，总算把博客搭好了。搭建过程参考了：使用Hexo搭建个人博客(基于hexo3.0)、GitHub Pages、NexT主题。Hexo支持Markdown，所以在开始写博客之前学习了下如何使用Markdown（献给写作者的 Markdown 新手指南），在此对以上所有内容提供者表示感谢。 开博客的初衷古时候有个人说“长到老学到老”，知识日新月日，学习也永无止境。我经常会在网易云课堂、coursera和学校里的公选课上学一些自己感兴趣的东西，有些可以现学现用，而暂时用不到的知识就可能会被忘记。好像还是古人说的——“好记性不如烂笔头”，为了真正学到知识，开个博客吧！把学习的东西都写出来，一方面可以加深对知识的理解，在和大家分享的同时还有机会得到高手的指正；另一方面，可以督促自己深入的学习，而不是停留在一知半解的层面，同时还可以锻炼写作的能力。一箭多雕的事，何乐而不为。 就到这吧！第一次写博文，就这几个字还费了老大的劲o(╯□╰)o，希望能够坚持，希望能不断进步。]]></content>
     </entry>
 
     
